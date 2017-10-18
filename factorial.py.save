@@ -1,0 +1,2 @@
+factorialnumber = int (input("please enter a number to be converted\n:"))
+
