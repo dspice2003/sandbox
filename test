@@ -1,0 +1,5 @@
+import time
+
+for i in l:
+    print i
+    time.sleep(1)

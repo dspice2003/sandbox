@@ -1,6 +1,6 @@
 password = ""
 limit = 0
-while(password != "dinosaur" and password != "rex"):
+while(password != "dinosaur" and username != "rex"):
 	username = input("Enter your username\n:")
 	password = input("Enter Your Password\n:")
 	limit = limit + 1
